@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Diese React Webaaplikation kann mit den Java Backend : (https://github.com/GitterJakub/MyFashionList) gestartet werden.
+Hier werden User registriert und in doie Datenbank eingetragen. 
+Jeder User hat seine Wunschliste, in der er Hosen, Kleider und Schuhe eintragen kann.
+
 ## Available Scripts
 
 In the project directory, you can run:
